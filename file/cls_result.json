@@ -1,0 +1,1102 @@
+[
+    {
+        "需求內容": "申请邮箱及打印等权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请Oracle权限或申请产品类别信息更新，请务必下载“Oracle帳戶申請表”或“產品類別更新申請表”，完成填写后，添加至附件提交",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "开通看实时营业额销售BI功能",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "广州区由于门店第一负责级调整，请协助调整监控权限并取消原有权限，变动明细如下：李嘉伟-3632天环13580416184凌威婷-12728北京路13129344363潘思桦-12732乐峰15013242103",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "取消该员工JoeyHuang的所有邮箱的成员身份，以及共享盘权限共享盘：\\\\itgzfs01\\JCRTraining邮箱群：GenkiSushiChinaAllUsersGenkiSushiChinaAllUsers@maxims.com,hkGZJCRAllUsersGZICRAllUsers@maxims.com.hkMeiXinGuangZhoumeixinguangzhou@maxims.com.hkTrainingDept-JCRChinaTrainingDeptlCRChina@genki.com.hkTrainingDept-JCRSouthChinaTrainingDept-S&CJCRaaa@genki.com.hkTrainingSupportTrainingSupport@genki.com.hk",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申請能夠查看mg.job1提交的supplymapping權限。設置方式參考EBS賬戶：gscmickyl開通權限賬戶：1.cavickyw2.gscjessicac3.gscyannac4.gscpriscillay5.gsckennethh6.gscivyng",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "每日系统邮件发送的元气宵鸟报表，请增加grosssales，公式为产品sales/1.06",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "請貴部在2024年9月30日前,在#3648分店的銀行系統中新增及刪除存銀行編號及名稱",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "1.发件人【GZCakesMarketing】的使用权限：麻烦帮忙新增YannisZhao及PennyPan到MKT群组里2.YannisZhao及PennyPan的公共盘权限开通参考kriszhang（包括mes/eps/内部系统选单等）",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请帮忙新同事CancyZhao（邮箱：cancyzhao@mei-xin.com\t工号：1000951259）开通Orcale及内联网权限，设置请全部参照广州BP同事JackyLiang（邮箱：jackyliang@mei-xin.com工号：1000563727）即可，谢谢！",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "关闭LiHaoHua(JMF-PD)&lt;lihaohua@mei-xin.com>的公盘权限，公盘链接\\\\ITHKHQFSP01\\GroupProcurement-China\\AllUsers",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "因工作需要，以下两位同事需申请彩打权限，望批准，谢谢。用户名：tscathyl（CathyLao）用户名：gztsestherk（Estherkuang）",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "689改8123",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "希望新增一風堂市务部公共邮箱，以便于门店发送需求时，整个MKT部门成员能够直接同步信息邮箱名称可以是：IPPUDOCHINAMKT群组成员：ZoeyZhou、SaraYin",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请增加HelenYe可访问\\\\JMFFSP01\\JMfactory\\协同办公\\物流交收部共享\\交收共享资料\\2024\\交收报表，该链接的公共盘访问权限。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请协助导出元气品牌2022年（全年），2023年（全年），2024年YTD（截止至8月31日）的“ServiceTime-服务15分钟以内占比”和“PMIX(按ServiceType)”数据。谢谢！",
+        "分配團隊": "ERP team, BI Team"
+    },
+    {
+        "需求內容": "请帮忙在邮箱群组：美心生活mxlife&lt;mxlife@maxims.com.hk>中新增成员，新增人员信息如下：姓名：郭倪铷，邮箱：nellyguo@mei-xin.com，英文名：NellyGuo，谢谢~",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "需要申请广州写字楼彩色打印权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "CBDPSDM群组增加HerryLin和OceanZheng",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请帮忙开通附件列示人员的Oracle权限【&quot;MGSCSRevenue-collection】，谢谢。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "CN新增外部供应商，需要申请VPN，供用户链接到内部网站进行收货等事务，另外需要对应的UAT场链接做PREPROD培训和测试。VPNAccount：RQWarehouseaccessaddress：内联网PROD：http://intranet.maxims.com/Login/loginpageOraclePROD：https://hkgerpapp.maxims.com.hk:8443/OA_HTML/AppsLocalLogin.jsp内联网UAT：http://hkgwiappu01/Login/loginpageOracleUAT：https://hkgebsappuat.maxims.com.hk:7443/OA_HTML/AppsLocalLogin.jspbranchname：09162",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "請貴部在2024年9月24日前,在#5380分店的銀行系統中新增存銀行編號及名稱，謝謝！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请接收wingfan设备及参考wingfan权限，谢谢。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "上海写字楼新入职员工-潘张婧（人力资源部高级人力资源主任），英文名VivianPan，请协助开设电脑登陆账户及邮箱（vivianpan@mei-xin.com）",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "电话调整689-666对调",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "请禁止EricLiu的邮箱登录及所有公司网址的登录",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20240927007]姓名：汤捷(Eva Tang)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱邮箱群组：Jie Tai  GZ Accounts All Users",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20240929008]姓名：赵淑莹(Cancy Zhao)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱,VPN,开通外网",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "1.新增邮箱-LynnWang加入组别m.a.xconceptsChinaAllUsers&lt;maxconceptsChinaAllUsers@maxims.onmicrosoft.com>2.开通新店邮箱12161，加入群组：XingMeiLeChinaAllBranches&lt;xingmeileallbranches@maxims.com.hk>;m.a.xConceptsChinaBranches&lt;MAXConceptsChinaBranches@maxims.onmicrosoft.com>3.工号738566任麗娟监控权限：1372/1373/1383/1389",
+        "分配團隊": "Office support team, Store support Team"
+    },
+    {
+        "需求內容": "开通邮箱：ReginaXian加入组别m.a.xconceptsChinaAllUsers&lt;maxconceptsChinaAllUsers@maxims.onmicrosoft.com>",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请Oracle权限或申请产品类别信息更新，请务必下载“Oracle帳戶申請表”或“產品類別更新申請表”，完成填写后，添加至附件提交",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請幫忙開啟用戶AppleQin(REV,GZ-ASC)&lt;appleqin@mei-xin.com>;CherryLi(REV,GZ-ASC)&lt;cherryli@mei-xin.com>進入路徑\\\\ITHKHQFSP01\\Custshare\\SalesDept&GZARTeam的權限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请建立TA邮箱群组，用于人才招募流程、资源、系统、渠道相关信息发布和收集，以及雇主品牌推广相关业务的专用邮箱。群组名称：ChinaTA，群组成员：alanhuang@mei-xin.com，tammytan@mei-xin.com,samzhang@mei-xin.com群组邮箱：ChinaTalentAcquisition@maxims.com.hk",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請幫忙將AvelynFeng(CP&AR,GZ-ASC)&lt;avelynfeng@mei-xin.com>添加CP&ARTeam&lt;CPARTeam@maxims.com.hk>emailgroup",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "开通KevinTian，DanielDai，HarrisJi三人的可以看实时销售数据的BI权限",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "开通cakgzopt@maxims.com.hk该邮箱，的代发送权限。成员AngelHuang、HelenYe、FighterFeng、BeetleYang、JoeZhou。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请协助删除分区经理原有的分店监控权限，全部按新架构图进行添加分店监控权限（如附件最新版）",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241012001]姓名：张兵兵(Amma)HR跟进人：高建萍(Helen Gao)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "张水周分区经理13545550806：删除12735东川路，增加3688中山五卓群汤思惠高级分区经理18588885620：删除3688中山五卓群，增加12735东川路",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "因市场部工作需要，申请开通外网vpn，需可访问box与Hightail。烦请协助，谢谢！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "接广州PS营运通知广州4店今天重新开卖蔓越莓吐司产品，因该产品之前已停售及删除了产品机制，现需加急将产品机制添加到广州4店（3633天汇、12728北京路、3664时光里、12732乐峰店）售卖，烦请协助将产品编号：3700002288加急传输至分店今日生效，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "请添加AlanZhang(OPS,GZ-CBD)&lt;alanzhang@mei-xin.com>到CBDBakeryDM（热烘分区邮箱群组）。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "为了方便汇总产品销售数据，申请在报表平台&观远平台，增加CBD营业部销售数据，请协助在CBD下面新增一个Brand【营业部】【分店编号为3788&3887】。",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "因观远BI手机页面网址手机打不开，需申请开通内网wifi，以便调试观远BI手机页面。长期使用",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "企业微信“报表BI”功能开放权限给以下同事：黄锦恩、林晨、陈玉珊、庄友天、陈绮晖",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "新建账户和邮箱姓名：CharlesTse成本中心为6608，开通VPN权限、外网权限等。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請貴部在2024年11月1日前,在#4096分店的銀行系統中新增附件存銀行編號及名稱",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "应西饼营运需求，请协助附件6位同事开通监控查看权限，谢谢！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "新增使用Utility@mei-xin.com此mailgroup发送邮件的权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "座机NEC电话故障，需要申请一台NEC电话，请协助。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "【客退报表】【员工会员积分报表】【上存调整报表】需要定时自动推送邮件发给营运相关同事，现申请以上三份报表美心BI平台的查询权限。",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "请为新入职IT采购GavinChen（AD：gzitgavinc）申请Oracle账号及相关权限，并开通内联网权限。设置请参考SandyLi（AD:gzitsandyl员工编号为1000208521）的权限配置。请知悉并处理，谢谢。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "以下开通监控权限1000463074鄧嘉欣只保留1365/121911000703808鄭任軒增加12191/12160",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241031010]姓名：高湛粤(Quentina Gao)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：China HR共享盘：待定其他申请：加急，请在3天内到货。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "参考用户SamGao权限。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241029009]姓名：杨欣(Sissie Yang)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印其他申请：请配备上任陈列经理KIKO的手提电脑及工作交接备份，谢谢",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "需求品牌-CBD西饼（剔除PS）",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "请开通潘张婧（员工编码：1000951954）内联网（申请用章系统权限），谢谢！",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "接PS营运通知今天重新开卖蔓越莓吐司产品，因该产品之前已停售及删除了产品机制，现需加急将产品机制添加到12739上海浦东PS店售卖，烦请协助将产品编号：3700002288加急传输至12739上海浦东店今日生效，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "分区经理申请以下同事开通12712信基厦滘分店的监限权限：周长汉手机：13672968271温家德手机：13662331335",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请开通上海一風堂浦東機場08121新店邮箱，具体信息如下：邮箱名称：8121-SHIPPPDAIRPORT邮箱地址：gs8121@maxims.com.hk8121分店邮箱加入一風堂全国群邮箱：IPPUDOChinaAllBranches@ippudo.com.cn",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241028008]姓名：金卓玄(Kam Cheuk Yuen)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：群组名称：GZ Cakes Marketing ＜GZCakesMarketing@maxims.com.hk＞共享盘：共享盘内容：\\\\itgzfs01\\CakesGZ\\Marketing\\\\ITGZFS01\\CakesGZ\\宣传品备份其他申请：接收林兆恺KaiLin(MKT,GZ-CBD)&lt;kailin@mei-xin.com>所有权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "现申请PAPERSTONE广州和上海的店长需开通VPN并在notebook上安装，名单如下：上海区：12716庄成杰JASON1581184474012715姜松霖songlin1301708019212738庞玉惠Miu1982126312812739黄晓轩Amber1862156254广州区：12756杨秀霞suthia136525895843632李嘉伟kris135804161843633廖喜文Avien131262117063663陈翠玲Ling136407664753664赖淑妍Laureen1322640845412728凌威婷Jenny1312934436312732潘思桦loofah15013242103",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "1、增加12756邮箱至PAPERSTONECHINAALLBRANCHES群组2、门店新增邮箱自动加入PAPERSTONECHINAALLBRANCHES群组",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "因推广未完成设置，现需加急将推广：3700006081添加至全线分店今日生效，请协助加急传输全线分店（西饼零售店、现烘店、烘焙所、烘焙之家）今日生效，谢谢~",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241016004]姓名：陈嘉永(Gavin Chen)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网邮箱群组：China IT procurement",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請貴部在2024年10月26日前,在#2129和#15273分店的銀行系統中新增附件的存銀行編號及名稱。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "添加HerryLin和EricHuang到观远平台PSDM组里",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "因调座位，需要调整电话分机",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请协助把PaperStone北京国贸分店12756-Cakeshop&lt;cs12756@maxims.com.hk>的分店邮箱，添加到PAPERSTONEChinaAllBranches&lt;PAPERSTONEChinaAllBranches@maxims.com.hk>的分店群组，谢谢。",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241105001]姓名：邓熙妍(Daphne Deng)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱邮箱群组：GZ Accounts All Users其他申请：直属上司：冯伟立OscarFeng(CS,GZ-ASC)职位：实习生手机号：14749306822",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "城市\t&quot;门店&quot;\t\t\t深圳\t5301\t深圳喜荟城元气深圳\t5309\t深圳海雅缤纷城元气深圳\t5311\t深圳海岸城元气深圳\t5316\t深圳龙岗万科广场元气深圳\t5322\t深圳益田假日广场元气深圳\t5323\t深圳龙华中航九方购物深圳\t5324\t深圳新港商城元气寿司深圳\t5336\t深圳华强北九方购物中心元气寿司深圳\t5343\t深圳深国投广场元气深圳\t5344\t深圳金光华元气深圳\t5345\t深圳布吉万象汇元气深圳\t5346\t龙华八号仓深圳\t5349\t深圳元气梅林店深圳\t5351\t深圳花园城商业中心元气深圳\t5353\t深圳福田COCOPARK深圳\t5354\t深圳福田KKMALL深圳\t5355\t深圳壹方城元气深圳\t5357\t深圳龙华壹方天地深圳\t5360\t光明大千里深圳\t5361\t深圳华强北茂业深圳\t5362\t宝安天虹深圳\t5364\t宝安大仟里深圳\t5365\t福田深业上城分店深圳\t5367\t深圳京基水贝KKTIME惠州\t5358\t惠州港惠厦门\t5376\t厦门万象城元气厦门\t5377\t厦门SM广场店成都\t5854\t成都万象城元气成都\t5856\t成都大悦城东莞\t5369\t东莞民盈国贸深圳\t5380\t深圳坂田万科分店",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241015002]姓名：孔紫珊(Sophia Kong)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网邮箱群组：参照Sam Gao设置共享盘：参照SamGao设置",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請貴部在2024年10月20日前,在#3654分店的銀行系統中新增及刪除附件的銀行編號及名稱",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241021007]姓名：黄志文(Holly)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,开通外网邮箱群组：GZ Cakes Marketing共享盘：\\\\ITGZFS01\\CakesGZ\\Marketing其他申请：微信、企业微信电脑版",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "邓淑妹-SueDeng&lt;suedeng@mei-xin.com>已离职，请取消邮箱并移出m.a.xconceptsChinaAllUsers&lt;maxconceptsChinaAllUsers@maxims.onmicrosoft.com>，另外取消所有监控权限。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "因芝乐坊餐厅市场部工作需要，需通过box（app.box.com）和hightail（主页www.hightail.com可登陆，但对方上传文件的页面如：https://spaces.hightail.com/space/Yi36RE3ADI无法打开）向美国品牌方上传活动计划/物料图片/视频等文件进行沟通审批，故申请可用于国外网站的vpn，烦请协助，谢谢！",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "請貴部在2024年10月24日前,在#12756和#3684分店的銀行系統中新增附件的存銀行編號及名稱",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "现申请VPNAccount：Flexideas权限，可以访问以下4条相关链接。谢谢。1、https://mxrds.maxims.com/RDWeb/Pages2、https://couponhub-uat.maxims.com/Account/Login3、http://couponhub-sit.maxims.com/Account/Login4、https://couponhub.maxims.com/Account/Login",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241016003]姓名：郭敬宣(Lisa Guo)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：MEIXIN CHINA All DEPARTMENTS;All Departments;其他申请：只申请电脑账号和邮箱",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241016005]姓名：梁宇珊(Trista Liang)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：JCRQA@genki.com.hk，JieTai@maxims.com.hk，gzjcrallusers@maxims.com.hk，共享盘：路径：\\\\itgzfs01\\China-SCQA\\新产品&新供应商开code资料查阅\\新产品",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241018006]姓名：黄锦钰(Jinny Huang)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱邮箱群组：1. GZ Accounts PYR      2. GZ Accounts All Users共享盘：\\\\itgzfs01\\gzaccounts\\PR\\ShareFolder\\\\itgzfs01\\gzaccounts\\PR\\China'sPayroll\\\\itgzfs01\\gzaccounts\\PR\\Maxim'spayroll\\\\itgzfs01\\gzaccounts\\PR\\Administration\\\\itgzfs01\\gzaccounts\\PR\\PayrollAccountingProcess",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请为GavinChen（AD：gzitgavinc）申请Oracle账号及相关权限，并开通内联网权限。权限设置请参考SandyLi（AD:gzitsandyl员工编号为1000208521）的权限配置。请知悉并处理，谢谢。",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "请给ChinaITStoneSupportTeam增加OA-IT流程（IT系统部署申请单）的使用权限",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "以优化我们的OA--赊销户口客户评审表的流程。具体需要您帮忙：1、增加流程监控：请为我们的“ASC-中央产品及应收账组”对“赊销户口客户评审表”流程增加流程监控功能。这能让没有在流程上的AR同事可以查找和跟踪和管理相关流程内容，确保工作流程的顺畅执行。2、归档提醒邮件附件：目前，我们的归档提醒邮件中缺少了申请者提交的附件。为了确保信息的完整性和方便后续的审核工作，请您帮忙调整系统设置，使得归档提醒邮件能够自动附带申请者提交的PDF文件。3、超时流程提醒：若存在即将超时的流程，我们希望能够在OA待审批流程提醒邮件中加入我们的“赊销户口客户评审表”流程。请参照附件中的图片示例，调整系统设置，以便在提醒邮件中包含这些即将超时的流程。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "观远平台增加以下用户账户并添加至DM组：格式-姓名：员工编号（管辖门店）杨邦荣：1000131506（3657、3659、3660、12204、12205、12206、12209、12715、12716、12738、12739）秦光哲：1000699709（12715、12716、12738、12739）谢健鹏：100238598（3632、3633、3663、3664、12728、12732）林健洋：1000224116（3663、12728、12732）郑敦海：1000911634（3657、3659、3660、12204、12205、12206、12209）",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "由于部门内工作调整，请修改邮箱中名字显示后缀OPS修改TRN显示，谢谢",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "新员工入职电话申请，SophiaKong",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "由于需要共享资讯文件到西饼零售培训部公共盘的权限，所以需要开通该权限\\\\itgzfs01\\CakesGZ\\CBDretailTraining\\CBDtrainingfolder（零售）",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请开通OA系统IT采购模块功能权限，员工编号：1000954793，权限对标参考:李珑茏(RoroLi)",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "添加营运支持部兼职同事李泳欣(YanLi)到GZCakesOperationAdmin营运支持部邮箱群组。添加GuangzhouCakeOperation公共邮箱、ChinaCakeService营运支持部邮箱以上三个邮箱的收发权限,",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请用户MAXIMS\\cnitbotaccount1有以下文件夹的读写权限：\\\\ITGZFS01\\GZAccounts\\Mei-XinGuangZhoudata\\Financialanalysisteam\\B.BUSpecific\\CBD\\1.Weeklyreport\\退货报表",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请协助提供以下数据，1）银商系统2024年1-10月（目前为止）过期提货卡成功扣除激活费及系统维护费用数据。2）POS系统，2024年1-10月（目前为止）经分店入机成功扣除过期提货券激活及系统维护费用，涉及ITM：1800004033、1800004034。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "TonkilaLiang休完产假需帮忙查询Oracle是否还有权限登录，若无请帮忙重新激活，谢谢！",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "PaperStone8间分店各新购一台文书笔记电脑办公，店长申请开通VPN，OFFICE365使用门店邮箱激活",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "申请查阅在BU下三家饭堂（2602、2603、2605）的员工卡刷卡就餐记录，包括但不限于营运同事、工程部、采购部、品控部的企业微信内员工卡刷卡就餐记录；目前提供的月度汇总报表仅针对三家饭堂的员工刷卡总额，但无法追溯到每一天，或是需要等一个月才能获取到这份报表，时效性不够。",
+        "分配團隊": "Digital Team"
+    },
+    {
+        "需求內容": "当前只有黑白打印权限，需要开通彩色打印权限，以便打印培训资料",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "由于12756北京国贸PAPERSTONE需要设置一、三、五、日车期，但系统上未新建有该车期，烦请新增该车期，车期名称为：0911101(一,三,五,日)",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "您好，烦请帮忙开通员工潘张婧（VivianPan）工号：1000951954的OA门店人事管理权限，谢谢~",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "由于设置问题，现需将推广编号：3700006101加急传输到烘焙之家（12751、3631），烦请协助将推广加急传输至分店今日生效，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "发件人【GZCakesMarketing】的使用权限：ChrisChen、JellyYang、LanChen、WingFan及ChrisaTan可删除。以上同事所有账号及权限均需删除，如有没走完流程可转至KrisZhang，谢谢。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "为方便办公，请开通北京财务PT电脑的公盘权限，申请详见附件。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "接市务部同事通知，原烘焙之家早餐推广限制12：00前使用，现更改为全天可用，烦请协助将推广：3700006102、3700006103、3700006104加急传输到烘焙之家（3631乐峰店、12751西关雅筑店）今日生效，烦请协助加急传输，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "1.Oracle用戶申請，請見附件表格gztsgltracylgztshedyy2.開通以下文件权限路徑：登陆账户邮箱名称gztsgltracyltracylin@mei-xin.comgztshedyyhedyyu@mei-xin.comtsyufengkyufengke@mei-xin.com文件夾權限路徑\\\\10.10.50.22\\LegacySystemDOCInboundDirectory\\\\10.86.2.113\\ProjectManagement\\\\10.86.2.113\\ProjectManagement\\Estatement_check_inv\\\\10.86.2.113\\ProjectManagement\\Estatement_check_inv\\BackUp\\\\10.86.2.113\\ProjectManagement\\Estatement_check_inv\\Result\\\\10.86.2.113\\ProjectManagement\\Estatement_check_inv\\Tool\\\\10.86.2.113\\ProjectManagement\\Estatement_check_inv\\Upload_Template",
+        "分配團隊": "Office support team, ERP team"
+    },
+    {
+        "需求內容": "12161-XINGMEILE(SZJINGJIKKMALL)&lt;er12161@maxims.com.hk>;1367-XingMeiLe(GZBeijingRoadTeeMall)&lt;er1367@maxims.com.hk>加入群组中m.a.xConceptsChinaBranches&lt;MAXConceptsChinaBranches@maxims.onmicrosoft.com>;XingMeiLeChinaAllBranches&lt;xingmeileallbranches@maxims.com.hk>",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "\\\\itgzfs01\\ITshare\\ERPTeam\\影刀\\ITYD028_Get_Meituan_BranchScore\\EUR",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请帮忙开通一下本人的国内盖章权限，谢谢shjerryzhang@mei-xin.com工号：1000965119部门：09544",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "請貴部在2024年11月29日,在#12191分店的銀行系統中新增存銀行編號及名稱，謝謝！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请抖音美心及美心生活旗舰店公共邮箱账号，for巨量平台绑定收发邮件所用。1）命名：抖音美心官方旗舰店邮箱，邮箱地址：maxims.douyin@mei-xin.com2）命名：抖音美心生活旗舰店，邮箱地址：mxlife.douyin@mei-xin.com邮箱成员：yogaliu@mei-xin.com、ranli@mei-xin.com",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "蔡彩莲18211533217（3704荔景），陈欣欣13672705725（12207茂业），苏瑞贤15920551543（3702天北），林俏玲15918513630（12751西关雅筑），温家德13662331335（所有烘焙分店3654/3702/3704/12203/12207/12729/12733/12751）",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "开通PS北京国贸店（12756）手机监控权限：杨秀霞13652589584功能和其他店长级一致",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "以下outlook邮箱，请帮忙添加Login以及发邮件的功能。GZASC-THFIN&lt;GZASC-THFIN@maxims.com.hk>",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241111004]姓名：李志鹏(Scott Li)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：cbd mkt共享盘：mkt共享（参考kriszhang权限）mes及eps系统申请权限（参考kriszhang权限）",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请于生产场OA系统中ASC流程[宿舍押金/发票跟进]删除流程编号[宿舍押金--20241101-248]的记录。(原为测试编号及报表设置)",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "ShakeShack市场部新入职实习生黎吉敏，麻烦贵部协助申请以下事项，申请表详见附1.\t笔记本电脑（看是否公司有备用可以直接用）2.\t申请加入“ShakeShackMKT”群组邮件名单中3.\t开通网络、邮箱等其他权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请帮忙在Oracle(12133FMCG货品仓库(江门))中新增一个子仓，名称PPS,用于PaperStone。参照12133中子仓（OFFLINE)来设置即可，谢谢!",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请开设VPN网上业务，用于浏览商业图片素材，具体浏览网站如下1、www.instagram.com2、https://www.pinterest.com/",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "申請美心BI平台上的PMIX報表查看权限，移动端和PC端。营业额，实时销售，库存管理，利润管理",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "由于工作需要，申请开通OA流程的发起权限--IT设备及服务购置申请单（门店）",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241106002]姓名：李韵萍(Milky Li)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,彩色打印邮箱群组：gzcamkt（参考Kris zhang）共享盘：",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请把CharryLi从gzpsm@mei-xin.com人员中删除",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241113007]姓名：陈淑桢(Alice Chen)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：MEIXIN CHINA All DEPARTMENTS China HR Shenzhen Office All Users SHENZHEN HR",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "企业微信“报表BI”功能开放权限给以下同事：谢健鹏：3632、3633、3663、3664、12728、12732林健洋：3663、12728、12732杨邦荣：3657、3659、3660、12204、12205、12206、12209、12715、12716、12738、12739郑敦海：12715、12716、12738、12739秦光哲：12756",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "因需要接手泰國業務並獲取泰國數據，請求幫忙安裝軟件-FortiClientVPN",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "hello，SSEdigitalmkt新来实习生Jasmine，需要申请相关系统权限，如附件申请表，请帮忙安排。期望于下周一左右完成设置，非常感谢，如有问题欢迎随时沟通！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "增加Oracle-AFCD-MGMaterialDistributionDetailsReport中的RequestSet,实现效果：（1）RequestSet默认一次可执行查询8个MaterialDistributionDetailsReport的命令（2）Date默认上个月月初至月末（3）各个执行命令的storecode设置默认值，但可供修改",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "今早接PS市务部同事通知，周一会员日换购美式活动推广：3700005477需要新增产品给12756北京店，请协助加急传输至12756北京店今日生效，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "请帮忙协助以下人员开通电子邮箱以及VPN账号，谢谢。10520:SSE-臧俊（CocoZang)",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请协助给该同事开通以下权限：\t\t\t\t姓名：梁宇珊工号：1000957051邮箱：tristaliang@genki.com.hk\t\t\t1.请开通公共盘读写权限\t\t\t\t公共盘：&quot;\\\\itgzfs01\\JCRChinaQA&quot;2.开通OA里QA审核权限，仅开通“JCR-月度食品安全检查表”\t权限即可；3.开通JCRQA：QA机会点统计/问题抽查得分率/分店ATP测试汇总/分店审核成绩汇总/QA门店地区信息维护表的查看及下载权限。\t",
+        "分配團隊": "Office support team, ERP team"
+    },
+    {
+        "需求內容": "DearInfraTeam：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t&quot;装修店，更换SOPHOS更换为forti40请协助划分如下门店IP段，制定此店网络拓扑图，谢谢#、协助根据附件开放IP外网：食品标签机、A8设备、平板、银联A9#、门店一条宽带、一个迈外迪4G路由&quot;\t\t\t\t\t\t\t\t\t\t\t\t\t\tChinaITRequest：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t请收到INFRA设置IP邮件后，完成对应DNS配置&邮箱申请，谢谢\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t门店编号\t门店名称\t\t门店地址\t\t\t\t门店品牌\tFullEnglishName\t城市\t\t支持类型\t\t防火墙\t是否独立服务器\t3654\t##云门饼店(烘焙所)#\t\t#广州市白云区百顺北路1号云门第一层自编L118号商铺#\t\t\t\t#CBD-烘焙所#\t\t#广州#\t\t#装修##\t\tFortiGate40F##\t是\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tINFATeam填写：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIP网段：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tServerIP：\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tITRequest：（请收到INFAIP申请回复后，根据对应IP协助申请对应DNS）\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDNS：\t\t\tM3654：ServerIP\t\t\t\t\t\t\t\t\t\t\t\t提醒：没POSSERVER门店，DNS用“M+店号_01”;ServerIp为POS1；（请ITSupportTeam申请时注意）\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "分配團隊": "Office support team, Infra team"
+    },
+    {
+        "需求內容": "申请重置auditdepartment-prc@maxims.com.hk的账号密码",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "請貴部在2024年11月20日前,在#8866分店的銀行系統中新增附件的存銀行編號及名稱，謝謝！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241118008]姓名：王伟强(Leo Wang)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：CBD Cakes DM ＜cbdcakedm@maxims.com.hk＞",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241118009]姓名：李慧(Echo Li)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：CN PAPERSTONE MKT ＜cnpaperstonemkt@maxims.com.hk共享盘：",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "烦请把echoli@mei-xin.com加入CNPAPERSTONEMKTcnpaperstonemkt@maxims.com.hk群组，谢谢！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "将RikaLiu加入到以下群邮箱：xmloa@maxims.com.hkmaxconceptschinaallusers@maxims.onmicrosoft.com",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "用于企业用车系统功能测试，请开通手机的内联网连接。",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "1、煩請增加用戶到MailGroup&quot;LeasingPayment&quot;:leasingpayment@maxims.com.hk2、煩請幫忙修改Oracle用戶。AddOracleresponsibilities：APSupervisor(HK&MO);Ｄｅｌｅｔｅresponsibilities：APUser(HK&MO)。",
+        "分配團隊": "Office support team, ERP team"
+    },
+    {
+        "需求內容": "请把“美心中国主页”ProjectWorkFlowSystem的链接改为：https://pwfs.maxims.com/Login.aspx",
+        "分配團隊": "Digital Team"
+    },
+    {
+        "需求內容": "申请开通企业微信查询会员手机号功能入口工号：1000907551",
+        "分配團隊": "Digital Team"
+    },
+    {
+        "需求內容": "因工作需要，申请开通以下同事OA系统中《固定资产处置流程》的流程监控权限，辛苦协助，谢谢！DerekTang、SherryWang、LisaLi",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请访问\\\\Itgzfs01\\GZHR\\HRIS\\00-Yem交接文件夹",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "ProcurementBuyer-China中的Inventory内仅保留On-handQuantity权限。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "TCF门店排队取号系统在11月20日上线，需充值国内短信1000元22222条，费用记入成本中心1892。",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "申请开通公盘权限，以便填写《仓存录入表(Rev-總表)》，谢谢。公盘地址：O:\\Maxim'sH.K\\信安达仓库",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请观远平台测试环境服务器账号，用于安装调度工具“XXLJob”。该调度工具主要用于管理观远数据集任务的调度，能够调度生产环境和测试环境的数据集。其主要功能是在系统数据缺失或任务异常需要重新处理数据时，快速调用批量且关联的任务，从而提高工作效率。账号信息：10.89.252.27RDS，新增一个库以及访问账号（读写），GYJobs",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241125010]姓名：区婉铧(Eva Ou)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：GZ Accounts All Users其他申请：直属上司：钟慧珍JoyceZhong(REV&CS,GZ-ASC)职位：财务助理手机号码：15817074567成本中心：09621入职日期：2024.11.26",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241111003]姓名：刘慧敏(Carol Liu)HR跟进人：谭梦莹(Tammy Tan)申请账号/权限：账号及邮箱,VPN共享盘：结账需求：AAreport：\\\\10.86.2.22\\GZAccounts\\Mei-XinGuangZhoudata\\GL\\AA_reportTB：\\\\maxims\\hk\\Custshare\\Account&Financial\\ERPFinance\\MonthEndClosing\\2024\\Mar2024Monthendclosing\\TrialbalanceFAreport：\\\\10.86.2.22\\GZAccounts\\Mei-XinGuangZhoudata\\GL\\TB\\FA仓库报表：\\\\10.86.2.22\\gzaccounts\\Mei-XinGuangZhoudata\\Month-endClosing\\BSaccountschedule\\Inventory\\公仓报表BSaccountanalysis：\\\\10.86.2.22\\gzaccounts\\Mei-XinGuangZhoudata\\Month-endClosing\\BSaccountscheduleBPMSLoading：\\\\HKGPWCAPPP01\\infa_shared\\SrcFiles\\BP\\BPMSSalesImportteam公盘FMCG:\\\\HKGHQFSP01\\Custshare\\FMCGFinanceBP:\\\\HKGHQFSP01\\Custshare\\BPFinance\\BPFinanceChina其他申请：1.Orace系统账号，请copygztsrainiec@maxims.com.hk（Rainie账号）2.EPS/MES系统账号，请copyRainie账号权限",
+        "分配團隊": "Office support team, ERP team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241111005]姓名：余依婷(Hedy Yu)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：GZ Accounts GL；GZ Accounts All Users；其他申请：直属上司：李丽娜LinaLi(GL,GZ-ASC)职位：财务助理成本中心：09621手机：18998321698",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241113006]姓名：李思思(Cici Li)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,彩色打印邮箱群组：CBD-MKT共享盘：MKT公共盘-权限参考：KrisZhangMES及EPS系统申请权限-参考KrisZhang",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请协助把西饼市场营销部GZCakesMarketing的邮箱群组发出的呈现名称调整为“西饼市场营销部GZCakesMarketing”，西饼营运支持优化部GZCakesOperationAdmin的邮箱群组发出的呈现名称调整为“西饼营运支持优化部GZCakesOperationAdmin”，西饼培训部CBDTrainingTeam的邮箱群组发出的呈现名称调整为“西饼培训部CBDTrainingTeam”。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "手机监控系统取消所有PS店长权限包括店铺：3632、3633、3657、3659、3660、3663、3664、12204、12205、12206、12209、12715、12716、12738、12739、12756",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "\\\\itgzfs01\\ITshare\\ERPTeam\\影刀\\申请权限，做master数据维护",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请新增供应商机智云VPN账号，用于访问内部版本管理gitlab需访问资源：10.89.252.86:443",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "下发12190产品机制，今日生效明天生效，提前生效。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请更新开通5408#副经理文珊（员工号：1000730611）CCTV考勤权限，联系方式：18183266253",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "分区经理申请帮乐峰店长赖小丽（15814819375）开通3631乐峰分店的手机监控权限，请IT协助设置开通。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "请开通OARTA及報銷特殊人員清單的查阅权限。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241126012]姓名：张俊杰(Jerry Zhang)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：jimmyzhang@mei-xin.com共享盘：一品一码、月饼券等",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請貴部幫忙新增電郵組別成員以及Oracle權限,資料請查閱附件，謝謝!",
+        "分配團隊": "Office support team, ERP team"
+    },
+    {
+        "需求內容": "开通SunnyHuang，RikaLiu以下群邮箱收件，发件权限xmloa@maxims.com.hk",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "需求目的是将3794仓的试食装库存费用化至9541foodcost请协助于Branch09541新建subinventory：SAMPLEDescription：试食Expense：Y；supply=N；PRODUCT_LINE=blank；WEB_ACTIVITY=NExpaccount：MXG095416101002",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "请创建ChinaIT群组，群邮箱地址ChinaIT@mei-xin.com，添加Corbin，Anson，Chan，Jackey，Decher，Nancy，Sun进次群组，并授权以此群组发送邮件。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请提供有内联网上传调整权限的人员，包含（3792）内的人员，西饼零售、热烘（热烘店、烘焙所、美心烘焙之家）所有分店的人员明细，谢谢。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "因工作需要，故申请一个公司邮箱账号使用",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请观远salespay数据集，账号：gzgssilviaz",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "姓名KrissyHuang，员工编号：1000720973，成本中心：9612；需要1391的收货权限原因：因星美乐营运每年会有员工福利需求（包括不限于刺绣衣服，订购礼品等），为便于HR上系统收货，需开通权限，谢谢",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请开通审计部门人员观远BI报表、数据集、及ETL权限，详情如附件。",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "test",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "DearIT烦请把kellymo@mei-xin.com&taviayang@mei-xin.com加入CNPAPERSTONEMKTcnpaperstonemkt@maxims.com.hk群组，谢谢！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "影刀开发机器\tGZORPAU01.maxims.com10.48.7.73申请授权cnitbotaccount1这个账号管理员权限原因：用于测试RPA相关的功能，比如安装python到管理员目录，安装卸载影刀，调试API服务，以管理员运行cmd命令等等",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "监控权限调整和申请开通张海芳5314监控权限，其他店铺权限停用开通邝婉玲5363监控权限，其他店铺权限停用开通孔炜津8862,8864,8865,8863监控权限开通新增曾宪福5349监控权限（电话：15880969986）",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "请添加罗云kateLuo17600813267万店掌权限至10525门店，2025年1月1日生效；请于2025年1月1日同步删除洪良元13390658959万店掌权限，谢谢",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "由于需要设置每月推送【PS】ONHOUSE报表，现需要向IT申请数据集访问权限",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "申请开通西饼培训部CBDTrainingTeam的邮箱（gzcakestraining@maxims.com.hk）待发送权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "需保留HumanMa（员工编号：1000756867）账号资料，不须使用邮箱功能，谢谢",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "附件是PSM本次观远需发版内容，请帮忙迁移至生产。以下是仪表板清单：OverViewSalesDataCapexSummaryLeasingContractReportLeasingContractP&L(CN)",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "因发现非我部门人员有我部公共盘文件的读写权限，现需做权限调整。1.请将非我部人员从下路径读写权限名单中移出。\\\\ITGZFS01\\China-SCQA2.现下路径访问权限名单中将非我部人员读写权限调整为只读权限。\\\\ITGZFS01\\China-SCQA\\新产品&新供应商开code资料查阅\\新产品",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "烧肉Ｌｉｋｅ店长孔炜津申请开通邮箱：kongweijin@mei-xin.com",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "以下路径需要开通gztscaix@maxims.com.hk写入修改的权限，包括子文件夹\\\\10.86.2.112\\App_Doc",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241223008]姓名：袁雪莹(Aimee)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：GZ Accounts All Users其他申请：姓名：袁雪莹(AimeeYuan)直属上司：钟慧珍JoyceZhong(REV&CS,GZ-ASC)部门：营业组成本中心：9621职位：财务副主任入职日期：2024-12-25手机：18565374181",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "由于5254上海迪士尼丼丼屋需要设置一、三、五、六、日车期，但系统上未新建有该车期，烦请新增该车期，车期名称为：0911102(一,三,五,六,日)",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "由于营运支持兼职同事李泳欣（YanLi）转正后，因工作变动调岗到市场营销部任职。邮箱请由YanLi(OPS,GZ-CBD)更改为YanLi(MKT,GZ-CBD),以便各职能部门沟通工作。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "开通监控权限：1000817993林森榮取消深圳地区监控，开通佛山广州监控权限（1362/1365/1366/1367/12191/12150）738566任麗娟开通深圳地区监控权限（1371/1372/1373/1383/1389/12190/12160/12161)取消监控权限：1000003976康妙取消星美乐和心闪品牌的监控权限",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "请添加10520苏州中心店藏俊16621396068万店掌权限，2024年12月01日生效，谢谢；请同步删除取消10520苏州中心店陶腊梅13917741136万店掌权限。如有疑问，请随时联系",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "开通Shakeshack门店监控查看权限",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请以下手机登录公司内网测试海外RMS系统的手机版：64:6D:2F:15:CB:8C（RMS开发商手机）5C:70:17:9B:EC:85(CarolLin手机）",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "补发申请，需求已由Johnnyzhu完成导出分店5366点10月1-4日产品制作时间数据：分店，点单编号，产品，下单-上餐时间",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请开通一風堂分区肖利华和徐曦琼美心BI系统权限，请协助，谢谢",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "工号：1000938495工作需要开通内部系统广州热烘、烘焙之家、烘焙所门店权限",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241216005]姓名：符峰(Wilson Fu)HR跟进人：区彦琳(Beata Ou)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：trainingdeptjcrchina@genki.com.hk共享盘：JCRTraining",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请提供西饼零售店、热烘（包含美心烘焙所、美心烘焙之家现场烘焙店）所有门店内联网人员权限明细列表，显示到每名人员有个内联网权限，谢谢。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "智慧零售权限：18201972892RichyJing新增10526门店权限",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "更新觀遠生產厰數據賬戶MSSL_D365FabricChina密碼因爲目前使用的是第一版的舊密碼，預計香港Infa變更新密碼后，下周需要再更新一次密碼。",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "5254店铺由于工作需要申请一个VPN账号。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "由于需要设置每月推送【西饼】ONHOUSE报表+退单确认报表，现需要向IT申请数据集访问权限",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "海外EPS郵箱：SEA-EPS-System@maxims.com.hk需要在原來的應用注冊中增加上面的郵箱地址（原來已經有eps/rms/pwfs等系統的郵箱地址），具有read/write權限，請幫忙在OA中申請ITRequest，謝謝。應用注册信息================================================DisplayName:Erp_System_ProdClientID:61ec8a2e-42dd-4272-89af-b57b1e913d86ClientSecret:r-48Q~K4lzXZUMB-4ai-86Kx_SfzXVakBqup~cj-TenantID:a43e0edf-6561-4df7-99e8-a19ac0c75ba3================================================",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "請貴部在2024年12月23日前,在#3632分店的銀行系統中新增附件存銀行編號及名稱，謝謝！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "5349店长曾宪福：电话15880969986申请开通万店掌权限",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请内联网12113分配权限，开通内联网POS系统，详细权限请参考XiaLin(1000574298)我的员工编号：1000965119",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请增加以下同事sophos后台登陆验证。开通Sophos平台登陆验证：DeanJiang13661528826GuoShiZhen1824745513KyleLiu18589050600GavinSheng17680575960",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "更正，不需要新增加VPN账号，第三方物流商顺新晖新增加一个oracle账号3PL权限可参照：oracle账号：havi，内联网账号：1000480518，密码1000480518HAVI，收货门店和modelaccount一致新oracle账号名称：XH接收邮箱：zhishuang.xia@xh-cn.com",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请一个名为&quot;ChinaITBI&quot;邮箱群组，添加人员：CorbinLiang，NancyXie，NikiHuang，LeafLiang，JohnnyZhu五位同事，谢谢！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "绑定digitaljobs服务域名：10.89.236.158digital-jobs.mxitres.com",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "請貴部在2024年12月24日前,在#12161分店的銀行系統中新增附件的存銀行編號及名稱，謝謝！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "于09399仓下面增加sub仓FMCG，可以参考09247仓下面已有的sub仓FMCG进行设定",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "新同事工作需求，申请公盘读写权限（\\\\itgzfs01\\CakesGZ\\Marketing）。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请协助将:10520门店负责人臧俊CocoZang邮箱：cocozang@shakeshack.com.hk/shsscocoz@maxims.com.hk10525门店负责人罗云KateLuo邮箱：kateluo@shakeshack.com.hk/njsskatel@maxims.com.hk加入SSEGM邮箱群组&lt;ssegm@maxims.com.hk>，以方便接收公司相关邮件谢谢",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請貴部幫忙新增電郵組別成員以及Oracle權限,資料請查閱附件，謝謝!",
+        "分配團隊": "Office support team, ERP team"
+    },
+    {
+        "需求內容": "新增周边产品Brick，AccoutCode为8151501。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "O:\\Maxim'sH.K\\AP\\Non-Trade文件夾所有文件內容遷移到路徑O:\\Mei-XinGuangZhoudata\\GL\\Non-Trade",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241226009]姓名：莫可欣(Mandy Mo)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：1) GZ Accounts AP;    2) GZ Accounts All Users其他申请：员工姓名：莫可欣(MandyMo)直属上司：王碧健BeckyWong(AP,GZ-ASC)入职日期：2024-12-30手机：13622237962部门：应付账组职位：实习生",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "因工作需要，申请开通每次内联网系统-09628收货权限。成本中心：09628员工号：1000731888",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "Hi，麻烦将我的邮箱地址AmyZhuang(TRN，SH-JCR)amyzhuang@mei-xin.com加入以下邮箱群组：JCRShanghaiAllUsers&lt;JCRShanghaiAllUsers@maxims.com.hk>，以便接受群组邮件，感谢！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "员工编号1000960136、开通内联网收货系统，开通3792成本中心的收货系统。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241205002]姓名：陈燕婷(Tinphanie Chen)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印共享盘：",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "因业务需要，请在RTA及報銷特殊人員清單中新增附件人员。谢谢。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "新增3位成员访问下路径文件夹只读功能权限。西饼QA-LemonLiang（梁宁芳）、FionaLiu（刘嘉瑜）、MikeLi（李登云）。\\\\ITGZFS01\\China-SCQA\\新产品&新供应商开code资料查阅\\新产品",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241216004]姓名：李金璐(Adriana Li)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：GZ Accounts All Users其他申请：姓名：李金璐(AdrianaLi)职位：实习生直属上司：OscarFeng(CS,GZ-ASC)手机：19968334680成本中心：09621",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "获取5351分店10月末周边日盘存点存数据，内联网数据已逾时。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "因活动数据分析需求，申请开通ADW_Fact_MG_FA_SALES_ORDER_CN_TBL权限",
+        "分配團隊": "Digital Team"
+    },
+    {
+        "需求內容": "昨晚&今早接MKT通知修改&新增推广4个，需协助加急将推广：3700006298、3700006305、3700006311、3700006312、3700006236传输到全线美心西饼零售店、现场烘焙店、烘焙所、烘焙之家分店今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "测试",
+        "分配團隊": "无分配"
+    },
+    {
+        "需求內容": "请协助开通：10525：SSE-罗云（KateLuo）VPN及内联网和手机邮箱权限，谢谢。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "IT-requestform新增產品於内聯網券類交流數量及同時交流券編號20241203-中菜翠園年糕券",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请调整一風堂万店掌使用权限：8122港汇店：徐军13564725937。18101607989解绑停用8121浦东机场店：吴文理18101607989。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "因日常工作沟通需要，申请新建国内西饼研发部【GZCBDR&D】工作邮箱群组，具体群组人员名单见附件，谢谢！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241205001]姓名：余穗饶(Sarah Yu)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：GZ Accounts All Users其他申请：直属上司：冯伟立OscarFeng(CS,GZ-ASC)职位：实习生费用归属部门：09621財務共享服務中心航食手机：13640325035",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "现接PS市务部同事通知12738上海静安嘉里店今天推出五款新饮品，需要将产品加急传输到12738上海静安嘉里店今日生效，烦请协助将以下产品机制加急传输到分店，谢谢。热带漫游·美式(冷)--3790000853热带漫游·美式(热)--3790000852热带漫游·拿铁(冷)--3790000855热带漫游·拿铁(热)--3790000854PPS黄油牛乳澳白(热)--3790000869",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "请按照附件清单进行PS群组邮箱调整",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241219007]姓名：张懿君(Jocia Zhang)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：jimmyzhang@mei-xin.com共享盘：BPFMCG",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "开通我的电脑访问\\\\ITGZFS01\\GZAccounts\\Mei-XinGuangZhoudata\\T&TTeam\\影刀测试的读写权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "现接PS营运通知新增两个套餐推广，现需协助加急传输推广：3700006301、3700006302添加至12738上海静安嘉里店今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "开通adawang@mei-xin.com,登录上传共享盘\\\\itgzfs01\\JCRTraining的权限开通zhangjinlong@mei-xin.com，查看-美心BI实时销售-烧肉Ｌｉｋｅ全国的权限",
+        "分配團隊": "Office support team, BI Team"
+    },
+    {
+        "需求內容": "因工作需要，需申请一台笔记本电脑。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "12190/12191.所有星美乐机制下发更新",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请以下手机开通登录公司内网权限，海外系统手机版测试a8:13:06:56:d4:2b",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "元气5366#广州乐峰分店11月份周六日的服务数据，具体的数据模版请参考附件-请JohnnyZhu协助跟进，谢谢",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20241210003]姓名：李珠青(Quinta Li)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,彩色打印共享盘：\\\\itgzfs01\\ChinaFMCG",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "请根据附件名单赋予OA系统-ASC流程-宿舍押金/发票跟进汇总/自定义报表-宿舍押金/发票跟进汇总的访问权限。多谢。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "现接西饼市务部同事通知新增进口&美心生活零食活动，需加急推广：3700006287/3700006288/3700006293/3700006294至12751美心烘焙之家（西关雅筑店）今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "1.在观远BI的生产环境的数据分析、数据应用的移动端和桌面端、数据准备的数据集和智能ETL分别建立文件夹“ASC”和“个人文件夹_ASC”，创建用户组“ASC”，角色BU分析员2.在观远BI的生产环境开通CarolLin/PengCai管理员权限3.Andyxiao、CarolLin、AndrewFang、KingHo、PengCai人员开通美心BI企微权限",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "申请入公共盘权限用户名：KoeyZhou电邮：koeyzhou@mei-xin.com员工编号：1000688197",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "请协助开通meixinshanghai@maxims.com.hk账号权限，现无法收到办公室邮箱内容，请协助谢谢！",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "接MKT通知新增产品加入推广：3700006126，需协助加急传输到12207深圳茂业店今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "取消kangmiao@genki.com.hk所有OA及邮件接收权限。因Nacelynwei目前正在休病假中，需暂时取消该邮箱接收邮件权限，以及暂停使用公共盘的权限。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "請貴部在2025年1月8日前,在#3619分店的銀行系統中新增及刪除附件存銀行編號及名稱，謝謝！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "1000038315潘志文开通深圳广州佛山各店监控（星美乐/心闪品牌）",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "产品组需在观远平台看产品历史销量数据：品类推广数据月度，品类数据ByDay",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "需要登录https://www.tripadvisor.com/并注册一个新账号，点击登录后不断重复等待。经IT检测需要google验证等验证方式导致不能登陆，故需要申请开通使用香港代理权限、展开后续工作。",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "美团星级评价项目与外部竞品数据保存，需要申请CDWDEV环境与生产环境的指定表的读写权限。先请DBA帮忙开通CDWDEV环境与生产环境的新账号各一个。开通后在DEV环境执行建表sql后，给新账号赋予读写这些新表的权限",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "更新烧肉8860-8865键位后台Pomotion，谢谢！",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20250106001]姓名：李旻珊(Sonia Li)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱邮箱群组：1) GZ Accounts PYR;  2) GZ Accounts All Users",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "因推广：3700006170价格设置问题需协助加急传输到全线分店今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "北京联想驻场人员：蒲海航手机号：16601211825申请开通：邮箱（加入ChinaITStoreSupport群组）、OA、企业微信、ChinaITStoreSupportSharePoint共享盘权限",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申請gzithugocAD賬號可訪問下列服務器，用於日常支援RPA任務和工作。影刀开发机器\tGZORPAU01.maxims.com10.48.7.73影刀生产机器\tGZIDCRPAP01.maxims.com10.86.2.89",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "昨晚接MKT通知修改年糕推广优惠价：3700006392，需加急传输到全线分店今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "申请来源：新员工入职事宜[HRRZ20250106002]姓名：戈晨晨(Carol Ge)HR跟进人：张硕恒(Sam Zhang)申请账号/权限：账号及邮箱,VPN,开通外网,彩色打印邮箱群组：BP FMCG共享盘：BPFMCG",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "FMCGmkt粽子sell-ｉｎsample的费用收货。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "目前TCF店铺的美团外卖订单没有进行餐道与POS对接，因此美团的外卖订单号没有进入POS数据库，因而无法进行与QVAT对接开票，IT建议利用现时门店同事会在POS中输入美团的外卖订单号的简写信息与餐道中信息进行串联来解决，现需申请tssankrys可以有权限进入PDIS库查询餐道外卖信息，以便开展后续工作。",
+        "分配團隊": "Digital Team"
+    },
+    {
+        "需求內容": "因推广：3700006287的组别捆绑错误，需协助加急传输推广及组别至全线分店今日生效，烦请协助，谢谢。全线分店：西饼零售、现烘、烘焙所、烘焙之家",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "重新显示内联网PO941401180468",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "因NacelynWei周一开始恢复上班，请协助开通NacelynWei的邮件接收和公共盘权限，谢谢。",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "烦请在企业微信后台开通美心BI链接，谢谢!",
+        "分配團隊": "BI Team"
+    },
+    {
+        "需求內容": "元气西南区厨师长刘付辉权（1000235194）1月31日离职，目前已开始休假。营运要求即日起暂停其邮箱KuenLF(OPS,CD-JCR)&lt;kuenlf@mei-xin.com>和CCTV的使用权限。烦请协助申请，谢谢！",
+        "分配團隊": "Office support team, Store support Team"
+    },
+    {
+        "需求內容": "1、归档邮件；处理层邮箱字段中的描述性文字内容修改为：wingluo@mei-xin.com,caixiao@mei-xin.com,sankryshan@mei-xin.com,amylee@mei-xin.com，这四位同事的邮箱。\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2、处理层邮件：添加一个虚拟角色，名字叫PSMTeam，邮箱为gzpsm@mei-xin.com。再将这个虚拟角色放入“处理层”节点中，并且“处理层”节点要保证：蔡晓、骆颖茵、单慧和虚拟角色都收到审批邮件。并且其中这四个，其中一位同事点击审批通过后，流程就能流到下一节点，并不用全部人都审批通过后，再流到下一节点。3、OA前端用户填了part4发票信息部分，核实过后端打印模板中也有part4部分，但是审批邮件中的pdf没有part4部分信息。",
+        "分配團隊": "ERP team"
+    },
+    {
+        "需求內容": "1-SSEStore&lt;SSEStore@maxims.com.hk>邮箱群组添加门店邮箱：&lt;ss10548@maxims.com.hk>2-SSEGM&lt;ssegm@maxims.com.hk>邮箱群组添加人员邮箱：&lt;skywang@shakeshack.com.hk>3-SSEGM&lt;ssegm@maxims.com.hk>邮箱群组删除人员邮箱：&lt;reginaxian@shakeshack.com.hk>，&lt;cookiehong@shakeshack.com.hk>4-SkyWang(SHAKESHACKSHSTORE(10530))&lt;skywang@shakeshack.com.hk>的邮箱后缀是10530，实际该成员是10503门店的负责人，请协助修改.5-有同事已离职，请删除他们的邮箱：&lt;reginaxian@shakeshack.com.hk>，&lt;cookiehong@shakeshack.com.hk>",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "开通12113&09879的POS收银和日结权限，用于美心冻品券和美心月饼券销售事宜。",
+        "分配團隊": "Digital Team"
+    },
+    {
+        "需求內容": "需开通星美乐监控查看权限。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "开通该路径权限：\\\\Itgzfs01\\GZHR\\GZHR-西饼\\国内人事部\\西饼",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "申请增加EPS&couponhub开发商的VPN账户：maxims\\flexideas可以访问链接下面服务器：1、VNEPSUAT服务器：10.10.31.2122、CouponHubGitLab服务器：10.86.2.78",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "美团外卖与QVAT开票对接项目中，开具全电发票需要有接收发票邮箱，但美团外卖开票信息输入界面邮箱地址不是必填项，因此需要申请一个邮箱地址接收该类发票，经与IT沟通，可以申请创建mailgroup来满足该需求，并且无需支付任何费用，现申请创建mailgroup接收该发票邮件。",
+        "分配團隊": "Infra team"
+    },
+    {
+        "需求內容": "申请新建一个“审计”的公共盘，路径为itgzfs01>CakesGZ>审计；开放权限：CandyZeng、KatieQiu、EaglesLi",
+        "分配團隊": "Office support team"
+    },
+    {
+        "需求內容": "接PS-MKT通知需加急将产品：3750000934圣诞老人的帽子（蛋糕）传输到PS-12756北京国贸店今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    },
+    {
+        "需求內容": "接PS-MKT通知修改推广活动设置（推广：3700006413），需加急传输到全线PS分店今日生效，烦请协助，谢谢。",
+        "分配團隊": "Store support Team"
+    }
+]
