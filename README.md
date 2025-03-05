@@ -1,3 +1,4 @@
+使用步骤： 
 1. 从https://huggingface.co/google-bert/bert-base-chinese/tree/main 下载预训练模型`bert-base-chinese`
 2. 代码在path: `..\code`
 - 先用`data_cleaner.py`清洗数据, 清洗前需要把it request(清洗前)放在`../file/itrequest.xlsx`; 清洗完的文件放在`../file/cls_result.json`; 需要清除的特殊字符指定在`../file/specify_char.json`
